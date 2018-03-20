@@ -1,8 +1,8 @@
 #include<stdio.h>
-void main()
+int main()
 {
 int a[20],i,temp;
-printf("enter number");
+printf("entera number");
 for(i=1;i<=10;i++)
 {
 scanf("%d",&a[i]);
